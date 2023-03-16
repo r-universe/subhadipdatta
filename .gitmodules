@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ExtractTrainData"]
+	path = ExtractTrainData
+	url = https://github.com/subhadipdatta/extracttraindata
+	shallow = true
+	registered = true
+[submodule "GInSARCorW"]
+	path = GInSARCorW
+	url = https://github.com/subhadipdatta/ginsarcorw
+	shallow = true
+	registered = true
+[submodule "ReadDIM"]
+	path = ReadDIM
+	url = https://github.com/subhadipdatta/readdim
+	shallow = true
+	registered = true

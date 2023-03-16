@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ExtractTrainData",
+    "oncran": true
+  },
+  {
+    "package": "GInSARCorW",
+    "oncran": true
+  },
+  {
+    "package": "ReadDIM",
+    "oncran": true
+  }
+]
